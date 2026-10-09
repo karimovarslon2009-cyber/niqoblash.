@@ -1,0 +1,6 @@
+{
+  "name": "Niqoblash vositasi",
+  "description": "O'zbekiston telefon raqamlari (+998) va ismlarni avtomatik aniqlab xavfsiz niqoblovchi vosita.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
